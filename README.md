@@ -4,11 +4,6 @@
 
 Welcome to my Frontend Development repository! 👋
 
-
-# 💻 Frontend Development Projects
-
-Welcome to my Frontend Development repository! 👋
-
 I'm Bhagyashree Katale, an aspiring developer passionate about building responsive, user-friendly, and visually appealing web applications.
 
 ## 🛠️ Technologies & Tools
