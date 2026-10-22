@@ -1,4 +1,4 @@
-# Frontend-projects
+# Frontend-Projects
 
 # 💻 Frontend Development Projects
 
